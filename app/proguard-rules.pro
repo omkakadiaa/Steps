@@ -1,0 +1,3 @@
+-keep class com.steps.app.data.** { *; }
+-keepclassmembers class * extends androidx.room.RoomDatabase { *; }
+-dontwarn kotlinx.coroutines.**

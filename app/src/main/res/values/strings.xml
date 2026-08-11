@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Steps</string>
+    <string name="permission_title">Activity access</string>
+    <string name="permission_body">Steps needs physical activity permission to count your steps using the phone motion sensors. Data stays on this device.</string>
+    <string name="notification_channel">Step tracking</string>
+    <string name="notification_title">Steps is tracking</string>
+    <string name="notification_text">Counting steps in the background</string>
+</resources>
